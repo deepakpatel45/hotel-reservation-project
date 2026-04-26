@@ -6,3 +6,4 @@ public class HotelApplication {
         MainMenu.start();
     }
 }
+//******************Run this file******************
