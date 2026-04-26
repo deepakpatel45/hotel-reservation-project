@@ -6,4 +6,3 @@ public class HotelApplication {
         MainMenu.start();
     }
 }
-//
